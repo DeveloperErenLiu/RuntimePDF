@@ -11,7 +11,7 @@
 
 本系列Runtime文章总共九篇，发表在我简书的的博客上。本系列文章从各个方面，详细分析了Runtime。为了大家阅读方便，将所有文章汇总为一份PDF。
 
-本系列文章总字数为10w+，写技术文章不容易，希望各位能帮忙点个Star，谢谢！
+Runtime系列文章总字数为10w+，写技术文章不容易，希望各位能帮忙点个Star，谢谢！
 
 ![缩略图](https://github.com/DeveloperErenLiu/RuntimePDF/blob/master/270478-7d06f084cb052c22.png)
 
