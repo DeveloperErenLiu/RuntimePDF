@@ -33,4 +33,5 @@ Runtime系列文章总字数为10w+，写技术文章不容易，希望各位能
 
 [Runtime Method Swizzling](https://www.jianshu.com/p/ff19c04b34d0)
 
-[Runtime的应用](https://www.jianshu.com/p/ce97c66027cd)
+[Runtime的应用](https://www.jianshu.com/p/4a22a39b69c5)
+
